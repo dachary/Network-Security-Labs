@@ -2,4 +2,4 @@
 
 This lab will give overview about network security and differnt tools used for network security
 
-The materials provided here are ony for educational and reference purposes only. 
+Materials provided here are only for educational and reference purposes. 
